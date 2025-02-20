@@ -4,4 +4,5 @@
 ## Descripcion
 Esta es una aplicacion para el reconocimiento de dedos en tiempo real utilizando la API de MediaPipe y juntandola con arduino para encender bombillas
 
-# Imágenes
+# Video
+https://www.youtube.com/@IvanCarreSaez04
